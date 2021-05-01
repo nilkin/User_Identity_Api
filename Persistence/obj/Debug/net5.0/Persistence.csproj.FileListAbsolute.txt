@@ -1,0 +1,15 @@
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.pdb

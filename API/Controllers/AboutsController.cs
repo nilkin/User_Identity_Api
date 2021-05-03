@@ -13,17 +13,12 @@ namespace API.Controllers
 {
     public class AboutsController :BaseApiController
     {
-        private readonly IMediator _mediator;
 
-        public AboutsController(IMediator mediator)
-        {
-            _mediator = mediator;
-        }
 
         [HttpGet]
         public async Task<ActionResult<List<About>>>GetAbouts()
         {
-            return await _mediator.Send(new List.Query());
+            return await Mediator.Send(new List.Query());
         }
 
         [HttpGet("{Id}")]

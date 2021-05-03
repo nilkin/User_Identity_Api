@@ -29,12 +29,13 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateAbout(About about)
         {
-            return Ok(await Mediator.Send(new Create.Command() {About = about }));
+            return Ok(await Mediator.Send(new Create.Command{About = about }));
         } 
-        [HttpPut]
+        [HttpPut("{Id}")]
         public async Task<IActionResult> UpdateAbout(Guid Id ,About about)
         {
-            return Ok();
+            about.Id = Id;
+            return Ok(await Mediator.Send(new Update.Command{ About = about }));
         }
 
     }

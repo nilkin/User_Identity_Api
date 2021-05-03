@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4/1tDerUTS238f30ZKvT7KFsxjrTJRC8LpDd+2+f23nzHAYvvXusuLvbk3tpyu+GAUDbfLmB2WfnF+51+vw6iw==",
+  "dgSpecHash": "yzC+O5itdfB4te3Mf6LyuX41rx5A90rY8W8bzRoXEGkveZwMkQIScvH4AdknxHMPgzeZFEMKKwrJCZ/k5Qcs5A==",
   "success": true,
   "projectFilePath": "C:\\Users\\n_ilkin\\OneDrive\\Desktop\\my Code\\User_Identity_Api\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\n_ilkin\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\n_ilkin\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\n_ilkin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

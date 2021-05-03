@@ -1,4 +1,6 @@
-﻿using Domain.Entities;
+﻿using Application.Abouts;
+using Domain.Entities;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
@@ -11,23 +13,23 @@ namespace API.Controllers
 {
     public class AboutsController :BaseApiController
     {
-        private readonly DataContext _context;
+        private readonly IMediator _mediator;
 
-        public AboutsController(DataContext context)
+        public AboutsController(IMediator mediator)
         {
-            _context = context;
+            _mediator = mediator;
         }
 
         [HttpGet]
         public async Task<ActionResult<List<About>>>GetAbouts()
         {
-            return await _context.Abouts.ToListAsync();
+            return await _mediator.Send(new List.Query());
         }
 
         [HttpGet("{Id}")]
         public async Task<ActionResult<About>> GetAbout(Guid Id)
         {
-            return await _context.Abouts.FindAsync(Id);
+            return Ok();
         }
     }
 }

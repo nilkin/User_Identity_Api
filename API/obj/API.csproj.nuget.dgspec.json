@@ -116,7 +116,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\n_ilkin\\OneDrive\\Desktop\\my Code\\User_Identity_Api\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\n_ilkin\\OneDrive\\Desktop\\my Code\\User_Identity_Api\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\n_ilkin\\OneDrive\\Desktop\\my Code\\User_Identity_Api\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\n_ilkin\\OneDrive\\Desktop\\my Code\\User_Identity_Api\\Persistence\\Persistence.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -128,6 +135,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

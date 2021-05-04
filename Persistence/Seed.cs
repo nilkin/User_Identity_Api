@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,22 @@ namespace Persistence
 {
     public class Seed
     {
-        public static async Task DataSeed(DataContext _context)
+        public static async Task DataSeed(DataContext _context,
+            UserManager<AppUser> userManager)
         {
+            if (!userManager.Users.Any())
+            {
+                var users = new List<AppUser>
+            {
+                new AppUser{ DisplayName="Ili",UserName="ili",Email="ili@test.com"},
+                new AppUser{ DisplayName="Mus",UserName="mus",Email="mus@test.com"},
+                new AppUser{ DisplayName="Jeka",UserName="jeka",Email="jeka@test.com"},
+            };
+                foreach (var user in users)
+                {
+                    await userManager.CreateAsync(user,"Pas$w0rd");
+                }
+            }
             if (_context.Abouts.Any()) return;
             var abouts = new List<About>
             {

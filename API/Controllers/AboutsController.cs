@@ -1,6 +1,7 @@
 ﻿using Application.Abouts;
 using Domain.Entities;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
@@ -20,7 +21,7 @@ namespace API.Controllers
         {
             return await Mediator.Send(new List.Query());
         }
-
+        [Authorize]
         [HttpGet("{Id}")]
         public async Task<ActionResult<About>> GetAbout(Guid Id)
         {

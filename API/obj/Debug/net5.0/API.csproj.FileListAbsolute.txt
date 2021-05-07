@@ -70,3 +70,7 @@ C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

@@ -18,7 +18,7 @@ namespace API
     {
         public static async Task Main(string[] args)
         {
-           var host = CreateHostBuilder(args).Build();
+            var host = CreateHostBuilder(args).Build();
             using var scope = host.Services.CreateScope();
             var services = scope.ServiceProvider;
             try
@@ -26,19 +26,19 @@ namespace API
                 var context = services.GetRequiredService<DataContext>();
                 var user = services.GetRequiredService<UserManager<AppUser>>();
                 await context.Database.MigrateAsync();
-                await Seed.DataSeed(context,user);
+                await Seed.DataSeed(context, user);
             }
             catch (Exception e)
             {
                 var logger = services.GetRequiredService<ILogger<Program>>();
-                logger.LogError(e,"Error during migration");
+                logger.LogError(e, "Error during migration");
             }
 
             await host.RunAsync();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
+                Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();

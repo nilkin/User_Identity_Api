@@ -13,3 +13,18 @@ C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debu
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Work files\Back files\User_Identity_Api\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Work files\Back files\User_Identity_Api\Persistence\obj\Debug\net5.0\Persistence.pdb

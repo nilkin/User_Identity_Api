@@ -10,3 +10,15 @@ C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Domain\obj\Debug\net
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\n_ilkin\OneDrive\Desktop\my Code\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Work files\Back files\User_Identity_Api\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Work files\Back files\User_Identity_Api\Domain\bin\Debug\net5.0\Domain.dll
+D:\Work files\Back files\User_Identity_Api\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Work files\Back files\User_Identity_Api\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.dll
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Work files\Back files\User_Identity_Api\Domain\obj\Debug\net5.0\Domain.pdb
